@@ -52,7 +52,13 @@ The game supports both **Single Player (vs Computer)** and **Two Player** modes 
 python game.py
 ```
 
+## 📊 Result
 
+![2 players](https://github.com/LakshmiSrikumar/Tic-Tac-Toe-Unlimited/blob/64f4adfdf1b48da81d511984b061ff8d944668c5/Result/2%20players.jpg)
+![Comp vs User](https://github.com/LakshmiSrikumar/Tic-Tac-Toe-Unlimited/blob/64f4adfdf1b48da81d511984b061ff8d944668c5/Result/Comp%20vs%20User.jpg)
+![Toss Comp](https://github.com/LakshmiSrikumar/Tic-Tac-Toe-Unlimited/blob/64f4adfdf1b48da81d511984b061ff8d944668c5/Result/Toss%20feature%20(Comp).jpg)
+![Toss User](https://github.com/LakshmiSrikumar/Tic-Tac-Toe-Unlimited/blob/64f4adfdf1b48da81d511984b061ff8d944668c5/Result/Toss%20feature%20(User).jpg)
     
+
 
 
