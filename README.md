@@ -35,5 +35,24 @@ The game supports both **Single Player (vs Computer)** and **Two Player** modes 
 
 
 
-## 📂 Project Structure  
+## 📂 Project Structure
+
+    tic_tac_toe/
+        │── game.py # Main application code
+        │── README.md # Project documentation
+
+
+## ▶️ How to Run  
+
+1. Make sure you have **Python 3.8+** installed.  
+2. Clone or download this repository.  
+3. Navigate to the project folder and run:  
+
+```bash
+python game.py
+```
+
+
+    
+
 
